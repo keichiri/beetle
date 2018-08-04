@@ -1,0 +1,6 @@
+[package]
+name = "beetle"
+version = "0.1.0"
+authors = ["Janko Krstic <keichiri@protonmail.com>"]
+
+[dependencies]
